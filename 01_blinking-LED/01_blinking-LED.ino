@@ -12,5 +12,5 @@ void loop() {
   digitalWrite(2, HIGH); //turn LED off
   delay(1000);
   digitalWrite(2, LOW); //turn LED on
-  delay(1000);
+  delay(10);
 }
